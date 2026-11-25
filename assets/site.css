@@ -277,26 +277,29 @@ a.card:hover{border-color:var(--teal)}
 .card h3{padding-right:30px}
 
 /* ---------- blog ---------- */
-.post{padding:130px 0 40px}
-.post article,.post .post-cta,.crumbs{max-width:760px;margin-left:auto;margin-right:auto}
-.crumbs{font-size:.85rem;color:var(--muted);margin-bottom:26px}
+.post{padding:140px 0 40px}
+.post article,.post .post-cta,.crumbs{max-width:720px;margin-left:auto;margin-right:auto}
+.crumbs{font-size:.85rem;color:var(--muted);margin-bottom:34px}
 .crumbs a:hover{color:var(--teal-bright)}
-.post-tag{display:inline-block;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--teal-bright);margin-bottom:12px}
-.post-head h1{font-family:'Fraunces';font-weight:400;font-size:clamp(2rem,4.6vw,3.2rem);line-height:1.1;letter-spacing:-.02em}
-.post-meta{color:var(--muted-2);font-size:.85rem;margin-top:14px;display:block}
-.post-body{margin-top:36px;color:#c9d8de;font-size:1.06rem;line-height:1.75}
-.post-body p,.post-body ul,.post-body ol{margin-bottom:1.1em}
-.post-body h2{font-family:'Fraunces';font-weight:400;font-size:1.65rem;color:var(--cream);margin:1.8em 0 .6em;line-height:1.2}
-.post-body ul,.post-body ol{padding-left:1.3em}
-.post-body li{margin-bottom:.45em}
-.post-body strong{color:var(--cream)}
-.post-body a,.post-related a{color:var(--teal-bright);text-decoration:underline}
-.post-body small{color:var(--muted)}
-.post-related{margin-top:30px;padding:18px 20px;border:1px solid var(--panel-line);border-radius:14px;color:var(--muted)}
-.post-cta{margin-top:54px;padding:36px;border:1px solid var(--panel-line);border-radius:22px;background:var(--panel)}
-.post-cta h2{font-family:'Fraunces';font-weight:400;font-size:1.8rem;margin-bottom:10px}
-.post-cta p{color:var(--muted);margin-bottom:22px}
-.post-more{margin-top:80px}
-.post-more>h2{font-family:'Fraunces';font-weight:400;font-size:1.8rem;margin-bottom:24px}
-.post-card p{margin:10px 0 14px}
-@media(max-width:880px){.post{padding-top:110px}.post-cta{padding:26px 20px}}
+.post-tag{display:inline-block;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--teal-bright);margin-bottom:14px}
+.post-head{padding-bottom:34px;border-bottom:1px solid var(--line)}
+.post-head h1{font-family:'Fraunces';font-weight:400;font-size:clamp(2.1rem,4.8vw,3.3rem);line-height:1.12;letter-spacing:-.02em}
+.post-meta{color:var(--muted-2);font-size:.88rem;margin-top:18px;display:block}
+.post-body{margin-top:44px;color:#cfdde3;font-size:1.16rem;line-height:1.9;font-weight:400}
+.post-body p{margin-bottom:1.6em}
+.post-body ul,.post-body ol{margin:0 0 1.8em;padding-left:1.4em}
+.post-body li{margin-bottom:.9em;padding-left:.3em}
+.post-body li::marker{color:var(--teal)}
+.post-body h2{font-family:'Fraunces';font-weight:400;font-size:1.75rem;color:var(--cream);margin:2.6em 0 .9em;line-height:1.25}
+.post-body h2:first-child{margin-top:0}
+.post-body strong{color:var(--cream);font-weight:600}
+.post-body a,.post-related a{color:var(--teal-bright);text-decoration:underline;text-underline-offset:3px}
+.post-body small{color:var(--muted);font-size:.85rem;line-height:1.6;display:block;margin-top:2.4em}
+.post-related{margin-top:44px;padding:20px 24px;border:1px solid var(--panel-line);border-radius:14px;color:var(--muted);line-height:1.7}
+.post-cta{margin-top:64px;padding:40px;border:1px solid var(--panel-line);border-radius:22px;background:var(--panel)}
+.post-cta h2{font-family:'Fraunces';font-weight:400;font-size:1.8rem;margin-bottom:12px}
+.post-cta p{color:var(--muted);margin-bottom:26px;line-height:1.7}
+.post-more{margin-top:90px}
+.post-more>h2{font-family:'Fraunces';font-weight:400;font-size:1.8rem;margin-bottom:26px}
+.post-card p{margin:12px 0 16px;line-height:1.65}
+@media(max-width:880px){.post{padding-top:112px}.post-body{font-size:1.08rem;line-height:1.85}.post-body h2{font-size:1.5rem}.post-cta{padding:28px 22px}}
