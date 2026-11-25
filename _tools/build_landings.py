@@ -244,6 +244,7 @@ def render(p):
         <a href="/#servicios">Servicios</a>
         <a href="/#proceso">Cómo trabajamos</a>
         <a href="/#sectores">Sectores</a>
+        <a href="/blog/">Blog</a>
         <a href="#faq">FAQ</a>
       </div>
       <div class="nav-cta">
@@ -257,6 +258,7 @@ def render(p):
   <a href="/">Inicio</a>
   <a href="/#servicios">Servicios</a>
   <a href="/#sectores">Sectores</a>
+  <a href="/blog/">Blog</a>
   <a href="#faq">FAQ</a>
   <a class="btn" href="#contacto">Agendar reunión gratis</a>
 </div>
@@ -353,6 +355,7 @@ def render(p):
     <div class="foot">
       <img src="/logo.png" alt="Visionatec">
       <div class="foot-links">
+        <a href="/blog/">Blog</a>
 {nav_links(p["slug"])}
       </div>
     </div>

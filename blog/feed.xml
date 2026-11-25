@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Blog de Visionatec</title>
+  <link>https://visionatec.com/blog/</link>
+  <atom:link href="https://visionatec.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Inteligencia artificial práctica para pymes y autónomos.</description>
+  <language>es-es</language>
+  <lastBuildDate>Wed, 25 Nov 2026 12:04:19 +0000</lastBuildDate>
+  <item>
+    <title>¿Hay ayudas para implantar inteligencia artificial en tu pyme? Situación a finales de 2026</title>
+    <link>https://visionatec.com/blog/ayudas-ia-pymes-2026/</link>
+    <guid>https://visionatec.com/blog/ayudas-ia-pymes-2026/</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    <description>Estado del Kit Digital y el Kit Consulting, qué ayudas hay realmente para implantar IA en una pyme a finales de 2026 y qué hacer mientras no hay convocatoria abierta.</description>
+  </item>
+  <item>
+    <title>¿Cuánto cuesta implantar inteligencia artificial en una pyme?</title>
+    <link>https://visionatec.com/blog/cuanto-cuesta-ia-pyme/</link>
+    <guid>https://visionatec.com/blog/cuanto-cuesta-ia-pyme/</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    <description>Qué factores determinan el precio de un proyecto de IA o automatización en una pequeña empresa, qué costes recurrentes hay que tener en cuenta y cómo calcular si compensa.</description>
+  </item>
+  <item>
+    <title>Cómo usar ChatGPT y otras IA en tu empresa sin poner en riesgo los datos de tus clientes</title>
+    <link>https://visionatec.com/blog/ia-rgpd-datos-clientes/</link>
+    <guid>https://visionatec.com/blog/ia-rgpd-datos-clientes/</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    <description>Buenas prácticas para usar herramientas de inteligencia artificial en una pyme cumpliendo el RGPD: qué datos no meter, qué versiones usar y qué política interna tener.</description>
+  </item>
+  <item>
+    <title>Cómo automatizar citas y recordatorios en tu clínica sin cambiar de software</title>
+    <link>https://visionatec.com/blog/automatizar-citas-recordatorios-clinica/</link>
+    <guid>https://visionatec.com/blog/automatizar-citas-recordatorios-clinica/</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    <description>Guía práctica para clínicas de psicología, fisioterapia, dental o estética: reservas online, recordatorios por WhatsApp y menos ausencias, aprovechando las herramientas que ya usas.</description>
+  </item>
+  <item>
+    <title>Chatbot de WhatsApp con IA para tu negocio: qué puede hacer (y qué no)</title>
+    <link>https://visionatec.com/blog/chatbot-whatsapp-negocio/</link>
+    <guid>https://visionatec.com/blog/chatbot-whatsapp-negocio/</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    <description>Qué tareas puede resolver un asistente de WhatsApp con inteligencia artificial en una pyme, qué necesitas para montarlo legalmente y los errores más habituales.</description>
+  </item>
+  <item>
+    <title>7 tareas que una pyme puede automatizar con inteligencia artificial</title>
+    <link>https://visionatec.com/blog/tareas-automatizar-pyme-ia/</link>
+    <guid>https://visionatec.com/blog/tareas-automatizar-pyme-ia/</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    <description>Las tareas repetitivas que más tiempo quitan en una pequeña empresa y cómo la IA y la automatización pueden encargarse de ellas, con ejemplos concretos y por dónde empezar.</description>
+  </item>
+</channel>
+</rss>
